@@ -3,7 +3,7 @@
 This repository contains links to small python projects. Feel free to check them out!
 
 ## 📝 Table of Contents
-- [Tip Calculator](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-tip-calculator)
+- [Tip Calculator](https://github.com/nareshribabu/Python-Projects-SandBox#-tip-calculator)
 
 ## 💲 Tip Calculator
 This project splits the bill amount and calculates how much each person needs to pay including the tip.
