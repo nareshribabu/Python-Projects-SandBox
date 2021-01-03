@@ -1,4 +1,4 @@
-![](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/sandbox.png | width=100)
+![](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/sandbox.png|width=100)
 # Python-Projects-SandBox
 This repository contains links to small python projects. Feel free to check them out!
 
