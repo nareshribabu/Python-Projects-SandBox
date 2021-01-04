@@ -3,7 +3,7 @@
 This repository contains links to small python projects. Feel free to check them out!
 
 ## 📝 Table of Contents
-- [BMI-Calculator]()
+- [BMI-Calculator](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-bmi-calculator)
 - [Tip Calculator](https://github.com/nareshribabu/Python-Projects-SandBox#-tip-calculator)
 - [Band Name Generator](https://github.com/nareshribabu/Python-Projects-SandBox#-band-name-generator)
 
