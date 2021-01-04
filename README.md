@@ -1,6 +1,6 @@
 ![](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/sandboxPic.jpg)
 # Python-Projects-SandBox
-This repository contains links to small python projects. Feel free to check them out!
+This repository contains links to my small python projects. Feel free to check them out!
 
 ## 📝 Table of Contents
 - [BMI-Calculator](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-bmi-calculator)
