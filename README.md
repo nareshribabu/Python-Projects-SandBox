@@ -3,10 +3,15 @@
 This repository contains links to my small python projects. Feel free to check them out!
 
 ## 📝 Table of Contents
+- [Pizza Order]()
 - [BMI-Calculator](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-bmi-calculator)
 - [Leap Year Checker](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-leap-year-checker)
 - [Tip Calculator](https://github.com/nareshribabu/Python-Projects-SandBox#-tip-calculator)
 - [Band Name Generator](https://github.com/nareshribabu/Python-Projects-SandBox#-band-name-generator)
+
+## 🍕 Pizza Order Program
+This program allows the user to pick sizes, toppings, and extras. Using this information, the program calculates the final price of the order.
+#### [Live Demo](https://repl.it/@DollyShah1/Pizza-Order-Program?embed=1&output=1#main.py)
 
 ## 💪 BMI Calculator
 This project calculates the BMI based on the height and the weight. This program will also inform the user if they are overweight, underweight, obese, clinically obese or normal weight.
