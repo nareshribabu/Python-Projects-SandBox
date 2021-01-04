@@ -3,7 +3,7 @@
 This repository contains links to my small python projects. Feel free to check them out!
 
 ## 📝 Table of Contents
-- [Pizza Order]()
+- [Pizza Order](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-pizza-order-program)
 - [BMI-Calculator](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-bmi-calculator)
 - [Leap Year Checker](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-leap-year-checker)
 - [Tip Calculator](https://github.com/nareshribabu/Python-Projects-SandBox#-tip-calculator)
