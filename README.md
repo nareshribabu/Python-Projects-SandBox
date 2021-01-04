@@ -3,11 +3,16 @@
 This repository contains links to my small python projects. Feel free to check them out!
 
 ## 📝 Table of Contents
+- [Love Calculator]()
 - [Pizza Order](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-pizza-order-program)
 - [BMI-Calculator](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-bmi-calculator)
 - [Leap Year Checker](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-leap-year-checker)
 - [Tip Calculator](https://github.com/nareshribabu/Python-Projects-SandBox#-tip-calculator)
 - [Band Name Generator](https://github.com/nareshribabu/Python-Projects-SandBox#-band-name-generator)
+
+## 💖 Love Calculator 
+This program will calculate the true love score between two people!
+#### [Live Demo](https://repl.it/@DollyShah1/Love-Calculator?embed=1&output=1#main.py)
 
 ## 🍕 Pizza Order Program
 This program allows the user to pick sizes, toppings, and extras. Using this information, the program calculates the final price of the order.
