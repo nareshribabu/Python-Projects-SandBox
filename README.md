@@ -3,7 +3,7 @@
 This repository contains links to my small python projects. Feel free to check them out!
 
 ## 📝 Table of Contents
-- [Decision Maker]()
+- [Decision Maker](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#%EF%B8%8Fdecisions-maker)
 - [Coin Flip](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-flip-a-coin)
 - [Choose Your Own Destiny Game](https://github.com/nareshribabu/Python-Projects-SandBox#-choose-your-own-destiny-game---treasure-island)
 - [Love Calculator](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-love-calculator)
@@ -13,7 +13,7 @@ This repository contains links to my small python projects. Feel free to check t
 - [Tip Calculator](https://github.com/nareshribabu/Python-Projects-SandBox#-tip-calculator)
 - [Band Name Generator](https://github.com/nareshribabu/Python-Projects-SandBox#-band-name-generator)
 
-## 🤷‍♀️Decisions Maker
+## 🤷‍♀️ Decisions Maker
 Many times people argue over what to eat, what movie to watch etc. This program will let destiny decide who will get to make that decision today! Simply input the names of everyone and it will output who will be making the decision.
 #### [Live Demo](https://repl.it/@DollyShah1/Decisions?embed=1&output=1#main.py)
 
