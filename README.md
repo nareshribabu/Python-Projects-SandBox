@@ -3,7 +3,7 @@
 This repository contains links to my small python projects. Feel free to check them out!
 
 ## 📝 Table of Contents
-- [Choose Your Own Destiny Game]()
+- [Choose Your Own Destiny Game](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#choose-your-own-destiny-game---treasure-island)
 - [Love Calculator](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-love-calculator)
 - [Pizza Order](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-pizza-order-program)
 - [BMI-Calculator](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-bmi-calculator)
@@ -11,7 +11,7 @@ This repository contains links to my small python projects. Feel free to check t
 - [Tip Calculator](https://github.com/nareshribabu/Python-Projects-SandBox#-tip-calculator)
 - [Band Name Generator](https://github.com/nareshribabu/Python-Projects-SandBox#-band-name-generator)
 
-## Choose Your Own Destiny Game - Treasure Island
+## 🏝 Choose Your Own Destiny Game - Treasure Island
 This game allows you to navigate through an island in order to find treasure!
 #### [Live Demo](https://repl.it/@DollyShah1/choose-your-own-destiny?embed=1&output=1#main.py)
 
