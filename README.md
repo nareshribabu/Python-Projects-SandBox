@@ -3,7 +3,7 @@
 This repository contains links to my small python projects. Feel free to check them out!
 
 ## 📝 Table of Contents
-- [Choose Your Own Destiny Game](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#choose-your-own-destiny-game---treasure-island)
+- [Choose Your Own Destiny Game](https://github.com/nareshribabu/Python-Projects-SandBox#-choose-your-own-destiny-game---treasure-island)
 - [Love Calculator](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-love-calculator)
 - [Pizza Order](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-pizza-order-program)
 - [BMI-Calculator](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-bmi-calculator)
