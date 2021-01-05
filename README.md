@@ -3,6 +3,7 @@
 This repository contains links to my small python projects. Feel free to check them out!
 
 ## 📝 Table of Contents
+- [Coin Flip]()
 - [Choose Your Own Destiny Game](https://github.com/nareshribabu/Python-Projects-SandBox#-choose-your-own-destiny-game---treasure-island)
 - [Love Calculator](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-love-calculator)
 - [Pizza Order](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-pizza-order-program)
@@ -10,6 +11,10 @@ This repository contains links to my small python projects. Feel free to check t
 - [Leap Year Checker](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-leap-year-checker)
 - [Tip Calculator](https://github.com/nareshribabu/Python-Projects-SandBox#-tip-calculator)
 - [Band Name Generator](https://github.com/nareshribabu/Python-Projects-SandBox#-band-name-generator)
+
+## 🪙 Flip a Coin
+This program allows the user to flip a coin when they don't have a coin available
+#### [Live Demo](https://repl.it/@DollyShah1/Coin-Toss?embed=1&output=1#main.py)
 
 ## 🏝 Choose Your Own Destiny Game - Treasure Island
 This game allows you to navigate through an island in order to find treasure!
