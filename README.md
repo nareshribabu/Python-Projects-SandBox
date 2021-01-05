@@ -3,6 +3,7 @@
 This repository contains links to my small python projects. Feel free to check them out!
 
 ## 📝 Table of Contents
+- [Rock, Paper, or Scissors Game]()
 - [Decision Maker](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#%EF%B8%8F-decisions-maker)
 - [Coin Flip](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-flip-a-coin)
 - [Choose Your Own Destiny Game](https://github.com/nareshribabu/Python-Projects-SandBox#-choose-your-own-destiny-game---treasure-island)
@@ -12,6 +13,10 @@ This repository contains links to my small python projects. Feel free to check t
 - [Leap Year Checker](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-leap-year-checker)
 - [Tip Calculator](https://github.com/nareshribabu/Python-Projects-SandBox#-tip-calculator)
 - [Band Name Generator](https://github.com/nareshribabu/Python-Projects-SandBox#-band-name-generator)
+
+## 🪨 Rock, Paper or Scissors Game
+This program allows the user to play the rock paper scissors game with the computer.
+#### [Live Demo](https://repl.it/@DollyShah1/rock-paper-scissors-game?embed=1&output=1#main.py)
 
 ## 🤷‍♀️ Decisions Maker
 Many times people argue over what to eat, what movie to watch etc. This program will let destiny decide who will get to make that decision today! Simply input the names of everyone and it will output who will be making the decision.
