@@ -3,12 +3,17 @@
 This repository contains links to my small python projects. Feel free to check them out!
 
 ## 📝 Table of Contents
+- [Choose Your Own Destiny Game]()
 - [Love Calculator](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-love-calculator)
 - [Pizza Order](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-pizza-order-program)
 - [BMI-Calculator](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-bmi-calculator)
 - [Leap Year Checker](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-leap-year-checker)
 - [Tip Calculator](https://github.com/nareshribabu/Python-Projects-SandBox#-tip-calculator)
 - [Band Name Generator](https://github.com/nareshribabu/Python-Projects-SandBox#-band-name-generator)
+
+## Choose Your Own Destiny Game - Treasure Island
+This game allows you to navigate through an island in order to find treasure!
+#### [Live Demo](https://repl.it/@DollyShah1/choose-your-own-destiny?embed=1&output=1#main.py)
 
 ## 💖 Love Calculator 
 This program will calculate the true love score between two people!
