@@ -3,7 +3,7 @@
 This repository contains links to my small python projects. Feel free to check them out!
 
 ## 📝 Table of Contents
-- [Rock, Paper, or Scissors Game]()
+- [Rock, Paper, or Scissors Game](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-rock-paper-or-scissors-game)
 - [Decision Maker](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#%EF%B8%8F-decisions-maker)
 - [Coin Flip](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-flip-a-coin)
 - [Choose Your Own Destiny Game](https://github.com/nareshribabu/Python-Projects-SandBox#-choose-your-own-destiny-game---treasure-island)
