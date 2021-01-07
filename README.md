@@ -16,7 +16,7 @@ This repository contains links to my small python projects. Feel free to check t
 - [Band Name Generator](https://github.com/nareshribabu/Python-Projects-SandBox#-band-name-generator)
 
 ## ✳︎ Random Password Generator
-This program will ask the user how many letters, numbers and symbols they want in their password. Using this information the program outputs a randomly generated password.
+This program outputs a randomly generated password. The password contains upper or lower case letters, numbers and symbols. The max password length is 15 characters.
 #### [Live Demo](https://repl.it/@DollyShah1/random-password-generator?embed=1&output=1#main.py)
 
 ## 🪨 Rock, Paper or Scissors Game
