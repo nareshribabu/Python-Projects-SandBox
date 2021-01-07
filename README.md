@@ -3,6 +3,7 @@
 This repository contains links to my small python projects. Feel free to check them out!
 
 ## 📝 Table of Contents
+- [Random Password Generator]()
 - [Rock, Paper, or Scissors Game](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-rock-paper-or-scissors-game)
 - [Decision Maker](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#%EF%B8%8F-decisions-maker)
 - [Coin Flip](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-flip-a-coin)
@@ -13,6 +14,10 @@ This repository contains links to my small python projects. Feel free to check t
 - [Leap Year Checker](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-leap-year-checker)
 - [Tip Calculator](https://github.com/nareshribabu/Python-Projects-SandBox#-tip-calculator)
 - [Band Name Generator](https://github.com/nareshribabu/Python-Projects-SandBox#-band-name-generator)
+
+## ✳︎ Random Password Generator
+This program will ask the user how many letters, numbers and symbols they want in their password. Using this information the program outputs a randomly generated password.
+#### [Live Demo](https://repl.it/@DollyShah1/random-password-generator?embed=1&output=1#main.py)
 
 ## 🪨 Rock, Paper or Scissors Game
 This program allows the user to play the rock paper scissors game with the computer.
