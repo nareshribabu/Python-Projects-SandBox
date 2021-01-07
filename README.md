@@ -3,7 +3,7 @@
 This repository contains links to my small python projects. Feel free to check them out!
 
 ## 📝 Table of Contents
-- [Random Password Generator]()
+- [Random Password Generator](https://github.com/nareshribabu/Python-Projects-SandBox#%EF%B8%8E-random-password-generator)
 - [Rock, Paper, or Scissors Game](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-rock-paper-or-scissors-game)
 - [Decision Maker](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#%EF%B8%8F-decisions-maker)
 - [Coin Flip](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-flip-a-coin)
