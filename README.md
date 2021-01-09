@@ -3,7 +3,7 @@
 This repository contains links to my small python projects. Feel free to check them out!
 
 ## 📝 Table of Contents
-- [Caesar Cipher]()
+- [Caesar Cipher](https://github.com/nareshribabu/Python-Projects-SandBox#-caesar-cipher---encoding-and-decoding-secret-coded-messages)
 - [Hangman Game](https://github.com/nareshribabu/Python-Projects-SandBox#-hangman-game)
 - [Random Password Generator](https://github.com/nareshribabu/Python-Projects-SandBox#%EF%B8%8E-random-password-generator)
 - [Rock, Paper, or Scissors Game](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-rock-paper-or-scissors-game)
@@ -17,7 +17,7 @@ This repository contains links to my small python projects. Feel free to check t
 - [Tip Calculator](https://github.com/nareshribabu/Python-Projects-SandBox#-tip-calculator)
 - [Band Name Generator](https://github.com/nareshribabu/Python-Projects-SandBox#-band-name-generator)
 
-## 🥸 Caesar Cipher - Encoding and Decoding **Secret** Coded Messages
+## 🥸 Caesar Cipher - Encoding and Decoding Secret Coded Messages
 This program allows the users to encode and decode **secret** messages using the caesar cipher. 
 - To encode, type your message in english and type the shift amount; the program outputs an encoded message. 
 - To decode, type your encoded message and type the shift amount; the program outputs the message in english.
