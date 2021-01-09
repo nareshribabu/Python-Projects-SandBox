@@ -3,6 +3,7 @@
 This repository contains links to my small python projects. Feel free to check them out!
 
 ## 📝 Table of Contents
+- [Caesar Cipher]()
 - [Hangman Game](https://github.com/nareshribabu/Python-Projects-SandBox#-hangman-game)
 - [Random Password Generator](https://github.com/nareshribabu/Python-Projects-SandBox#%EF%B8%8E-random-password-generator)
 - [Rock, Paper, or Scissors Game](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-rock-paper-or-scissors-game)
@@ -15,6 +16,12 @@ This repository contains links to my small python projects. Feel free to check t
 - [Leap Year Checker](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-leap-year-checker)
 - [Tip Calculator](https://github.com/nareshribabu/Python-Projects-SandBox#-tip-calculator)
 - [Band Name Generator](https://github.com/nareshribabu/Python-Projects-SandBox#-band-name-generator)
+
+## 🥸 Caesar Cipher - Encoding and Decoding **Secret** Coded Messages
+This program allows the users to encode and decode **secret** messages using the caesar cipher. 
+- To encode, type your message in english and type the shift amount; the program outputs an encoded message. 
+- To decode, type your encoded message and type the shift amount; the program outputs the message in english.
+#### [Live Demo](https://repl.it/@DollyShah1/caesar-cipher-encoder-decoder?embed=1&output=1#main.py)
 
 ## 😵 Hangman Game
 This program allows the user to play the traditional hangman game. Users are provided with blanks and they can guess letters. For every correct letter guessed it fills in the blanks. For every incorrect letter a part of the hangman gets filled in. The game ends after six incorrect attempts.
