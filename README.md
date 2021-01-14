@@ -29,7 +29,7 @@ This program allows the user to play the traditional hangman game. Users are pro
 
 ## ✳︎ Random Password Generator
 This program outputs a randomly generated password. The password contains upper or lower case letters, numbers and symbols. The max password length is 15 characters.
-#### [Live Demo](https://repl.it/@DollyShah1/random-password-generator?embed=1&output=1#main.py)
+#### [Live Demo](https://repl.it/@nareshri/random-password-generator?embed=1&output=1#main.py)
 
 ## 🪨 Rock, Paper or Scissors Game
 This program allows the user to play the rock paper scissors game with the computer.
