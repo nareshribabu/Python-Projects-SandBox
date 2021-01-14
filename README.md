@@ -53,7 +53,7 @@ This program will calculate the true love score between two people!
 
 ## 🍕 Pizza Order Program
 This program allows the user to pick sizes, toppings, and extras. Using this information, the program calculates the final price of the order.
-#### [Live Demo](https://repl.it/@DollyShah1/Pizza-Order-Program?embed=1&output=1#main.py)
+#### [Live Demo](https://repl.it/@nareshri/Pizza-Order-Program?embed=1&output=1#main.py)
 
 ## 💪 BMI Calculator
 This project calculates the BMI based on the height and the weight. This program will also inform the user if they are overweight, underweight, obese, clinically obese or normal weight.
