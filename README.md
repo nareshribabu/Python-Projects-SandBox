@@ -61,7 +61,7 @@ This project calculates the BMI based on the height and the weight. This program
 
 ## 📆 Leap Year Checker
 Given a year, this program checks if the year is a leap year or not a leap year.
-#### [Live Demo](https://repl.it/@DollyShah1/Leap-Year-Checker?embed=1&output=1#main.py)
+#### [Live Demo](https://repl.it/@nareshri/Leap-Year-Checker?embed=1&output=1#main.py)
 
 ## 💲 Tip Calculator
 This project splits the bill amount and calculates how much each person needs to pay including the tip.
