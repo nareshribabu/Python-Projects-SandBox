@@ -25,7 +25,7 @@ This program allows the users to encode and decode **secret** messages using the
 
 ## 😵 Hangman Game
 This program allows the user to play the traditional hangman game. Users are provided with blanks and they can guess letters. For every correct letter guessed it fills in the blanks. For every incorrect letter a part of the hangman gets filled in. The game ends after six incorrect attempts.
-#### [Live Demo](https://repl.it/@DollyShah1/Hangman-Game?embed=1&output=1#main.py)
+#### [Live Demo](https://repl.it/@nareshri/Hangman-Game?embed=1&output=1#main.py)
 
 ## ✳︎ Random Password Generator
 This program outputs a randomly generated password. The password contains upper or lower case letters, numbers and symbols. The max password length is 15 characters.
