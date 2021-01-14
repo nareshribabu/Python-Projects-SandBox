@@ -49,7 +49,7 @@ This game allows you to navigate through an island in order to find treasure!
 
 ## 💖 Love Calculator 
 This program will calculate the true love score between two people!
-#### [Live Demo](https://repl.it/@DollyShah1/Love-Calculator?embed=1&output=1#main.py)
+#### [Live Demo](https://repl.it/@nareshri/Love-Calculator?embed=1&output=1#main.py)
 
 ## 🍕 Pizza Order Program
 This program allows the user to pick sizes, toppings, and extras. Using this information, the program calculates the final price of the order.
