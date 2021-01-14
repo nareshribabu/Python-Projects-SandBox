@@ -57,7 +57,7 @@ This program allows the user to pick sizes, toppings, and extras. Using this inf
 
 ## 💪 BMI Calculator
 This project calculates the BMI based on the height and the weight. This program will also inform the user if they are overweight, underweight, obese, clinically obese or normal weight.
-#### [Live Demo](https://repl.it/@DollyShah1/BMI-Calculator?embed=1&output=1#main.py)
+#### [Live Demo](https://repl.it/@nareshri/BMI-Calculator?embed=1&output=1#main.py)
 
 ## 📆 Leap Year Checker
 Given a year, this program checks if the year is a leap year or not a leap year.
