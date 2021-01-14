@@ -41,7 +41,7 @@ Many times people argue over what to eat, what movie to watch etc. This program 
 
 ## 🪙 Flip a Coin
 This program allows the user to flip a coin when they don't have a coin available
-#### [Live Demo](https://repl.it/@DollyShah1/Coin-Toss?embed=1&output=1#main.py)
+#### [Live Demo](https://repl.it/@nareshri/Coin-Toss?embed=1&output=1#main.py)
 
 ## 🏝 Choose Your Own Destiny Game - Treasure Island
 This game allows you to navigate through an island in order to find treasure!
