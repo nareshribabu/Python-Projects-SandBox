@@ -45,7 +45,7 @@ This program allows the user to flip a coin when they don't have a coin availabl
 
 ## 🏝 Choose Your Own Destiny Game - Treasure Island
 This game allows you to navigate through an island in order to find treasure!
-#### [Live Demo](https://repl.it/@DollyShah1/choose-your-own-destiny?embed=1&output=1#main.py)
+#### [Live Demo](https://repl.it/@nareshri/choose-your-own-destiny?embed=1&output=1#main.py)
 
 ## 💖 Love Calculator 
 This program will calculate the true love score between two people!
