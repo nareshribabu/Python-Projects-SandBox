@@ -69,4 +69,4 @@ This project splits the bill amount and calculates how much each person needs to
 
 ## 🎸 Band Name Generator
 This project creates a custom band name.
-#### [Live Demo](https://repl.it/@DollyShah1/band-name-generator?embed=1&output=1#main.py)
+#### [Live Demo](https://repl.it/@nareshri/band-name-generator?embed=1&output=1#main.py)
