@@ -21,7 +21,7 @@ This repository contains links to my small python projects. Feel free to check t
 This program allows the users to encode and decode **secret** messages using the caesar cipher. 
 - To encode, type your message in english and type the shift amount; the program outputs an encoded message. 
 - To decode, type your encoded message and type the shift amount; the program outputs the message in english.
-#### [Live Demo](https://repl.it/@DollyShah1/caesar-cipher-encoder-decoder?embed=1&output=1#main.py)
+#### [Live Demo](https://repl.it/@nareshri/caesar-cipher-encoder-decoder?embed=1&output=1#main.py)
 
 ## 😵 Hangman Game
 This program allows the user to play the traditional hangman game. Users are provided with blanks and they can guess letters. For every correct letter guessed it fills in the blanks. For every incorrect letter a part of the hangman gets filled in. The game ends after six incorrect attempts.
