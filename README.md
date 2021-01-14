@@ -37,7 +37,7 @@ This program allows the user to play the rock paper scissors game with the compu
 
 ## 🤷‍♀️ Decisions Maker
 Many times people argue over what to eat, what movie to watch etc. This program will let destiny decide who will get to make that decision today! Simply input the names of everyone and it will output who will be making the decision.
-#### [Live Demo](https://repl.it/@DollyShah1/Decisions?embed=1&output=1#main.py)
+#### [Live Demo](https://repl.it/@nareshri/Decisions?embed=1&output=1#main.py)
 
 ## 🪙 Flip a Coin
 This program allows the user to flip a coin when they don't have a coin available
