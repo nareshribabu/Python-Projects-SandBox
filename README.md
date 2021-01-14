@@ -33,7 +33,7 @@ This program outputs a randomly generated password. The password contains upper 
 
 ## 🪨 Rock, Paper or Scissors Game
 This program allows the user to play the rock paper scissors game with the computer.
-#### [Live Demo](https://repl.it/@DollyShah1/rock-paper-scissors-game?embed=1&output=1#main.py)
+#### [Live Demo](https://repl.it/@nareshri/rock-paper-scissors-game?embed=1&output=1#main.py)
 
 ## 🤷‍♀️ Decisions Maker
 Many times people argue over what to eat, what movie to watch etc. This program will let destiny decide who will get to make that decision today! Simply input the names of everyone and it will output who will be making the decision.
