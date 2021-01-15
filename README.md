@@ -3,6 +3,7 @@
 This repository contains links to my small python projects. Feel free to check them out!
 
 ## 📝 Table of Contents
+- [Blind Auction]()
 - [Caesar Cipher](https://github.com/nareshribabu/Python-Projects-SandBox#-caesar-cipher---encoding-and-decoding-secret-coded-messages)
 - [Hangman Game](https://github.com/nareshribabu/Python-Projects-SandBox#-hangman-game)
 - [Random Password Generator](https://github.com/nareshribabu/Python-Projects-SandBox#%EF%B8%8E-random-password-generator)
@@ -16,6 +17,10 @@ This repository contains links to my small python projects. Feel free to check t
 - [Leap Year Checker](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/README.md#-leap-year-checker)
 - [Tip Calculator](https://github.com/nareshribabu/Python-Projects-SandBox#-tip-calculator)
 - [Band Name Generator](https://github.com/nareshribabu/Python-Projects-SandBox#-band-name-generator)
+
+## 👩🏻‍⚖️ Blind Auction 
+This program will allow a group of people to bid on an item or a decision. Each user will input their name and bid amount. The screen will clear to allow another person to bid. After everyone is done bidding, a winner will be announced! 
+#### [Live Demo](https://repl.it/@nareshri/blind-auction?embed=1&output=1#main.py)
 
 ## 🥸 Caesar Cipher - Encoding and Decoding Secret Coded Messages
 This program allows the users to encode and decode **secret** messages using the caesar cipher. 
