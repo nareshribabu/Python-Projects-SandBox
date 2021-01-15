@@ -18,7 +18,7 @@ This repository contains links to my small python projects. Feel free to check t
 - [Tip Calculator](https://github.com/nareshribabu/Python-Projects-SandBox#-tip-calculator)
 - [Band Name Generator](https://github.com/nareshribabu/Python-Projects-SandBox#-band-name-generator)
 
-## 👩🏻‍⚖️ Blind Auction :gavel:
+## 👩🏻‍⚖️ Blind Auction 
 This program will allow a group of people to bid on an item or a decision. Each user will input their name and bid amount. The screen will clear to allow another person to bid. After everyone is done bidding, a winner will be announced! 
 #### [Live Demo](https://repl.it/@nareshri/blind-auction?embed=1&output=1#main.py)
 
